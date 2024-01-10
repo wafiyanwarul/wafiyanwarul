@@ -1,5 +1,6 @@
 <img src = 'https://img.shields.io/badge/HI-EFFF36?style=for-the-badge' alt = 'Hi Badge'><img src = 'https://img.shields.io/badge/FOLKS!-FF6550?style=for-the-badge' alt = 'Folks Badge'>
-<p><h3>My name is <img src = 'https://img.shields.io/badge/Wafiy_Anwarul_Hikam-009470'></h3> I am an undergraduate student at UIN Maulana Malik Ibrahim Malang and my majority is in Computer Science. I am a creative and software engineering enthusiast.</p> 
+<h1>My name is <img src = 'https://img.shields.io/badge/Wafiy_Anwarul_Hikam-7861D7?style=for-the-badge'></h1> 
+<p>I am an undergraduate student at UIN Maulana Malik Ibrahim Malang and my majority is in Computer Science. I am a creative and software engineering enthusiast</p> 
 
 <h3>Want to get to know more about me? Let's get connect and grow up together! </h3>
 <a target="blank" href = 'https://id.linkedin.com/in/wafiy-anwarul-hikam-267bb81ba'><img src = 'https://img.shields.io/badge/%40wafiyanwarul-blue?style=flat-square&logo=Linkedin&logoColor=white' alt = 'Linkedin Wafiy Anwarul Hikam'></a>
