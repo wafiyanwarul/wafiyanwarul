@@ -10,10 +10,10 @@
 <a target="_blank" href = 'https://medium.com/@wafiyanwarulhikam12'><img src = 'https://img.shields.io/badge/%40wafiyanwarulhikam12-2FB575?style=flat-square&logo=medium&logoColor=white' alt = 'Medium Badge'></a>
 
 <h3>Currently Developing : </h3> 
-<img src = 'https://img.shields.io/github/stars/wafiyanwarul/angkotkita?style=flat-square&logo=github&label=Angkot%20Kita&labelColor=dark%20blue&color=red' alt = 'Repository angkutkita'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/yummyExpress?style=flat-square&logo=github&label=Yummy%20Express&color=red'>
+<p><img src = 'https://img.shields.io/github/stars/wafiyanwarul/angkotkita?style=flat-square&logo=github&label=Angkot%20Kita&labelColor=dark%20blue&color=red' alt = 'Repository angkutkita'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/yummyExpress?style=flat-square&logo=github&label=Yummy%20Express&color=red'></p>
 
 <h3> Follow for more! </h3>
-<img src = 'https://img.shields.io/github/followers/wafiyanwarul?style=for-the-badge&labelColor=blue&color=ffffff'><img src = 'https://img.shields.io/github/forks/wafiyanwarul/wafiyanwarul?style=for-the-badge'>
+<p><img src = 'https://img.shields.io/github/followers/wafiyanwarul?style=for-the-badge&labelColor=blue&color=ffffff'><img src = 'https://img.shields.io/github/forks/wafiyanwarul/wafiyanwarul?style=for-the-badge'></p>
 
 
 
