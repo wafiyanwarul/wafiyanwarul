@@ -1,4 +1,4 @@
-<img src = 'https://img.shields.io/badge/HELLO-orange'><img src = 'https://img.shields.io/badge/Folks!-blue'>👋
+<img src = 'https://img.shields.io/badge/HELLO-orange'><img src = 'https://img.shields.io/badge/Folks!-blue'>
 <p> My name is <img src = 'https://img.shields.io/badge/Wafiy_Anwarul_Hikam-00CEA9'> I am an undergraduate student at UIN Maulana Malik Ibrahim Malang and my majority is in Computer Science. I am a creative and software engineering enthusiast. Want to get to know more about me? Let's get connect and grow up together! </p>
 
 <a href = 'https://id.linkedin.com/in/wafiy-anwarul-hikam-267bb81ba'><img src = 'https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' >
