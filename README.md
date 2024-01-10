@@ -10,7 +10,7 @@
 <a target="_blank" href = 'https://medium.com/@wafiyanwarulhikam12'><img src = 'https://img.shields.io/badge/%40wafiyanwarulhikam12-2FB575?style=flat-square&logo=medium&logoColor=white' alt = 'Medium Badge'></a>
 
 <h3>Currently Developing : </h3> 
-<p><img src = 'https://img.shields.io/github/stars/wafiyanwarul/angkotkita?style=flat-square&logo=github&label=Angkot%20Kita&labelColor=dark%20blue&color=red' alt = 'Repository angkutkita'> <img src = 'https://img.shields.io/github/stars/wafiyanwarul/yummyExpress?style=flat-square&logo=github&label=Yummy%20Express&color=red'></p>
+<p><a href = 'https://github.com/wafiyanwarul/angkotkita'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/angkotkita?style=flat-square&logo=github&label=Angkot%20Kita&labelColor=dark%20blue&color=red' alt = 'Repository angkutkita'></a> <a href = 'https://github.com/wafiyanwarul/yummyExpress'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/yummyExpress?style=flat-square&logo=github&label=Yummy%20Express&color=red'></a></p>
 
 <h3>Tools : </h3>
 
