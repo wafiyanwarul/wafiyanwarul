@@ -3,7 +3,7 @@
 <p>I am an undergraduate student at UIN Maulana Malik Ibrahim Malang and my majority is in Computer Science. I am a creative and software engineering enthusiast</p> 
 
 <h3>Want to get to know more about me? Let's get connect and grow up together! </h3>
-<a target="blank" href = 'www.linkedin.com/in/wafiy-anwarul-hikam'><img src = 'https://img.shields.io/badge/%40wafiyanwarul-blue?style=flat-square&logo=Linkedin&logoColor=white' alt = 'Linkedin Wafiy Anwarul Hikam'></a>
+<a target="blank" href = 'https://www.linkedin.com/in/wafiy-anwarul-hikam-267bb81ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'><img src = 'https://img.shields.io/badge/%40wafiyanwarul-blue?style=flat-square&logo=Linkedin&logoColor=white' alt = 'Linkedin Wafiy Anwarul Hikam'></a>
 <a target="_blank" href = 'https://github.com/wafiyanwarul/'><img src = 'https://img.shields.io/badge/%40wafiyanwarul-blue?style=flat-square&logo=Github&logoColor=white&color=grey' alt = 'Github Badge'></a>
 <a target="_blank" href = 'https://www.instagram.com/wafiy_anw/'><img src = 'https://img.shields.io/badge/%40wafiy_anw-D32847?style=flat-square&logo=instagram&logoColor=white' alt = 'Instagram Badge'></a>
 <a target="_blank" href = 'https://dev.to/oneslabink'><img src = 'https://img.shields.io/badge/%40oneslabink-black?style=flat-square&logo=dev.to&logoColor=white' alt = 'Dev.to Badge'></a>
