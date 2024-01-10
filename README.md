@@ -14,6 +14,7 @@
 
 <h3> Follow for more! </h3>
 <img src = 'https://img.shields.io/github/followers/wafiyanwarul?style=for-the-badge&labelColor=blue&color=ffffff'>
+<img src = 'https://img.shields.io/github/forks/wafiyanwarul/wafiyanwarul?style=for-the-badge'>
 
 
 
