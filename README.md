@@ -1,7 +1,8 @@
 <img src = 'https://img.shields.io/badge/HELLO-orange'><img src = 'https://img.shields.io/badge/Folks!-blue'>
 <p> My name is <img src = 'https://img.shields.io/badge/Wafiy_Anwarul_Hikam-009470'> I am an undergraduate student at UIN Maulana Malik Ibrahim Malang and my majority is in Computer Science. I am a creative and software engineering enthusiast. Want to get to know more about me? Let's get connect and grow up together! </p>
 
-<a href = 'https://id.linkedin.com/in/wafiy-anwarul-hikam-267bb81ba'><img src = 'https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' >
+<a href = 'https://id.linkedin.com/in/wafiy-anwarul-hikam-267bb81ba'><img src = 'https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub.com%2Fwafiyanwarul&style=social&logo=Linkedin&label=%40wafiyanwarul&labelColor=blue' >
+
 
 <!--
 **wafiyanwarul/wafiyanwarul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
