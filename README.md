@@ -1,6 +1,8 @@
 <h2> Hi folks!👋 </h2>
 <p> My name is Wafiy Anwarul Hikam. I am an undergraduate student at UIN Maulana Malik Ibrahim Malang and my majority is in Computer Science. I am a creative and software engineering enthusiast. Want to get to know more about me? Let's get connect and grow up together! </p>
 
+<a href = 'https://id.linkedin.com/in/wafiy-anwarul-hikam-267bb81ba'>
+
 <img src = 'https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' >
 
 <!--
