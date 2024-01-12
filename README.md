@@ -1,8 +1,8 @@
 <img src = 'https://img.shields.io/badge/HI-EFFF36?style=for-the-badge' alt = 'Hi Badge'><img src = 'https://img.shields.io/badge/FOLKS!-FF6550?style=for-the-badge' alt = 'Folks Badge'>
 <h1>My name is <img src = 'https://img.shields.io/badge/Wafiy_Anwarul_Hikam-7861D7?style=for-the-badge'></h1> 
-<p>I am an undergraduate student at UIN Maulana Malik Ibrahim Malang and my majority is in Computer Science. I am a creative and software engineering enthusiast</p> 
+<p>I am currently student at UIN Maulana Malik Ibrahim Malang majoring in Informatics Engineering which is Popular as Computer Science. I am a creative and software engineering enthusiast. I have an interest in mobile programming and I also like graphic design. I am also active in the community, one of which is the GDSC Chapter of UIN Maulana Malik Ibrahim Malang.</p> 
 
-<h3>Want to get to know more about me? Let's get connect and grow up together! </h3>
+<h3>Want to know more about me? Let's get connect, learn and grow up together! </h3>
 <a target="blank" href = 'https://www.linkedin.com/in/wafiy-anwarul-hikam-267bb81ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'><img src = 'https://img.shields.io/badge/%40wafiyanwarul-blue?style=flat-square&logo=Linkedin&logoColor=white' alt = 'Linkedin Wafiy Anwarul Hikam'></a>
 <a target="_blank" href = 'https://github.com/wafiyanwarul/'><img src = 'https://img.shields.io/badge/%40wafiyanwarul-blue?style=flat-square&logo=Github&logoColor=white&color=grey' alt = 'Github Badge'></a>
 <a target="_blank" href = 'https://www.instagram.com/wafiy_anw/'><img src = 'https://img.shields.io/badge/%40wafiy_anw-D32847?style=flat-square&logo=instagram&logoColor=white' alt = 'Instagram Badge'></a>
