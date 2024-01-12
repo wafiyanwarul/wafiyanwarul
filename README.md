@@ -15,7 +15,7 @@
 <h3>Tools : </h3>
 
 <h3> Follow for more! </h3>
-<p><img src = 'https://img.shields.io/github/followers/wafiyanwarul?style=for-the-badge&labelColor=blue&color=ffffff'> <img src = 'https://img.shields.io/github/forks/wafiyanwarul/wafiyanwarul?style=for-the-badge'></p>
+<p><img src = 'https://img.shields.io/github/followers/wafiyanwarul?style=for-the-badge&labelColor=blue&color=ffffff'> <img src = 'https://img.shields.io/github/forks/wafiyanwarul/wafiyanwarul?style=for-the-badge'> <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwafiyanwarul"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwafiyanwarul&label=TOTAL%20VISITORS&labelColor=%23ff8a65&countColor=%23d9e3f0&labelStyle=upper" /></a></p> 
 
 
 
