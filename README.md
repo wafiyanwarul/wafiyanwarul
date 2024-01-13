@@ -22,6 +22,8 @@
 
 <div align = 'center'>
   <h3>Tools : </h3>  
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height = 50 /></p>
+          
 </div>
 
 <div align = 'center'>
