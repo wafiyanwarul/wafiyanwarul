@@ -22,7 +22,23 @@
 
 <div align = 'center'>
   <h3>Tools : </h3>  
-  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height = 50 /></p>
+  <p>
+    <img alt = 'Flutter Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height = 40 />
+    <img alt = 'Dart Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height = 40 />  
+    <img alt = 'Firebase Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height = 40/>  
+    <img alt = 'Java Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height = 40 />  
+    <img alt = 'Kotlin Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height = 40 />  
+    <img alt = 'Go Devicon'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height = 40 />  
+    <img alt = 'Python Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = 40 />  
+    <img alt = 'Javascript Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height = 40 />
+    <img alt = 'PHP Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height = 40 />
+    <img alt = 'Git Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = 40 />
+    <img alt = 'MySQL Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height = 40 />  
+    <img alt = 'Laravel Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height = 40 />  
+    <img alt = 'Gradle Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height = 40 />
+    <img alt = 'Google Cloud Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height = 40 />
+    <img alt = 'VS Code Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height = 40 />
+  </p>
           
 </div>
 
