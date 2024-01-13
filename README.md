@@ -20,11 +20,11 @@
 <p><a href = 'https://github.com/wafiyanwarul/angkotkita'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/angkotkita?style=flat-square&logo=github&label=Angkot%20Kita&labelColor=dark%20blue&color=red' alt = 'Repository angkutkita'></a> <a href = 'https://github.com/wafiyanwarul/yummyExpress'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/yummyExpress?style=flat-square&logo=github&label=Yummy%20Express&color=red'></a></p>  
 </div>
 
-<div>
+<div align = 'center'>
   <h3>Tools : </h3>  
 </div>
 
-<div>
+<div align = 'center'>
   <h3> Follow for more! </h3>
   <p><img src = 'https://img.shields.io/github/followers/wafiyanwarul?style=for-the-badge&labelColor=blue&color=ffffff'> <img src = 'https://img.shields.io/github/forks/wafiyanwarul/wafiyanwarul?style=for-the-badge'> <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwafiyanwarul"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwafiyanwarul&label=TOTAL%20VISITORS&labelColor=%23ff8a65&countColor=%23d9e3f0&labelStyle=upper" /></a></p> 
   
@@ -32,7 +32,7 @@
 
 </br>
 
-<div>
+<div align = 'center'>
   <p><img src="https://github-readme-stats.vercel.app/api?username=wafiyanwarul&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="wafiyanwarul's Stats" height="197">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafiyanwarul&theme=buefy&show_icons=true&hide_border=true&layout=compact" alt="wafiyanwarul's Top Languages" height="197">
 </p>
