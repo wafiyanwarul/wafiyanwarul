@@ -1,5 +1,5 @@
-<img src = 'https://img.shields.io/badge/HI-EFFF36?style=for-the-badge' alt = 'Hi Badge'><img src = 'https://img.shields.io/badge/FOLKS!-FF6550?style=for-the-badge' alt = 'Folks Badge'>
 <div align = 'center'>
+  <img src = 'https://img.shields.io/badge/HI-EFFF36?style=for-the-badge' alt = 'Hi Badge'><img src = 'https://img.shields.io/badge/FOLKS!-FF6550?style=for-the-badge' alt = 'Folks Badge'>
   <h1><a href = 'wafiyanwarulhk.online'>Wafiy Anwarul Hikam</a> Here 🙌</h1> 
 </div>
 <div align = 'justify'>
