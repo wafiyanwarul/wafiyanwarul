@@ -1,6 +1,11 @@
 <img src = 'https://img.shields.io/badge/HI-EFFF36?style=for-the-badge' alt = 'Hi Badge'><img src = 'https://img.shields.io/badge/FOLKS!-FF6550?style=for-the-badge' alt = 'Folks Badge'>
-<h1><a href = 'wafiyanwarulhk.online'>Wafiy Anwarul Hikam</a> Here 🙌</h1> 
-<p>I am currently student at UIN Maulana Malik Ibrahim Malang majoring in Informatics Engineering which is Popular as Computer Science. I am a creative and software engineering enthusiast. I have an interest in mobile programming and I also like graphic design. I am also active in the community, one of which is the GDSC Chapter of UIN Maulana Malik Ibrahim Malang.</p> 
+<div align = 'center'>
+  <h1><a href = 'wafiyanwarulhk.online'>Wafiy Anwarul Hikam</a> Here 🙌</h1> 
+</div>
+<div style="text-align: justify;">
+  <p>I am currently a student at UIN Maulana Malik Ibrahim Malang majoring in Informatics Engineering, which is popularly known as Computer Science. I am a creative and software engineering enthusiast. I have an interest in mobile programming, and I also like graphic design. I am also active in the community, one of which is the GDSC Chapter of UIN Maulana Malik Ibrahim Malang.</p>
+</div>
+
 
 <h3>Want to know more about me? Let's get connect, learn and grow up together! </h3>
 <a target="blank" href = 'https://www.linkedin.com/in/wafiy-anwarul-hikam-267bb81ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'><img src = 'https://img.shields.io/badge/%40wafiyanwarul-blue?style=flat-square&logo=Linkedin&logoColor=white' alt = 'Linkedin Wafiy Anwarul Hikam'></a>
