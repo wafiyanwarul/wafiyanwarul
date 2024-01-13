@@ -21,7 +21,7 @@
 </div>
 
 <div align = 'center'>
-  <h3>Tools : </h3>  
+  <h3>Tools and Languages: </h3>  
   <p>
     <img alt = 'Flutter Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height = 40 />
     <img alt = 'Dart Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height = 40 />  
