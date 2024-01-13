@@ -22,8 +22,10 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=wafiyanwarul&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="wafiyanwarul's Stats" height="180">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafiyanwarul&theme=buefy&show_icons=true&hide_border=true&layout=compact" alt="wafiyanwarul's Top Languages" height="180">
 </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wafiyanwarul&theme=buefy&hide_border=true" alt="wafiyanwarul's Streak">
+</div>
 
-  ![wafiyanwarul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wafiyanwarul&theme=buefy&hide_border=true)  
 
 
 
