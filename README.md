@@ -34,8 +34,8 @@
     <img alt = 'PHP Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height = 40 />
     <img alt = 'Git Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = 40 />
     <img alt = 'MySQL Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height = 40 />  
-    <img alt = 'Laravel Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height = 40 />  
-    <img alt = 'Gradle Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height = 40 />
+<!--     <img alt = 'Laravel Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height = 40 />  
+    <img alt = 'Gradle Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height = 40 /> -->
     <img alt = 'Google Cloud Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height = 40 />
     <img alt = 'VS Code Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height = 40 />
   </p>
