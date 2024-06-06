@@ -17,7 +17,7 @@
 
 <div align = 'center'>
   <h3>Currently Developing : </h3> 
-<p><a href = 'https://github.com/wafiyanwarul/angkotkita'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/angkotkita?style=flat-square&logo=github&label=Angkot%20Kita&labelColor=dark%20blue&color=red' alt = 'Repository angkutkita'></a> <a href = 'https://github.com/wafiyanwarul/yummyExpress'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/yummyExpress?style=flat-square&logo=github&label=Yummy%20Express&color=red'></a></p>  
+<p><a href = 'https://github.com/wafiyanwarul/angkotkita'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/angkotkita?style=flat-square&logo=github&label=Angkot%20Kita&labelColor=dark%20blue&color=red' alt = 'Repository angkutkita'></a> <a href = 'https://github.com/wafiyanwarul/yummyExpress'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/yummyExpress?style=flat-square&logo=github&label=Yummy%20Express&color=red' alt = 'Repository yummyExpress'></a> <a href = 'https://github.com/wafiyanwarul/DineOrderSystem'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/DineOrderSystem?style=flat-square&logo=github&label=DineOrderSystem&color=red' alt = 'Repository DineOrderSystem'></a></p>  
 </div>
 
 <div align = 'center'>
