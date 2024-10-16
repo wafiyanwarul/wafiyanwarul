@@ -3,7 +3,7 @@
   <h1><a href = 'wafiyanwarulhk.online'>Wafiy Anwarul Hikam</a> Here 🙌</h1> 
 </div>
 <div align = 'justify'>
-  <p>I am currently a student at UIN Maulana Malik Ibrahim Malang majoring in Informatics Engineering, which is popularly known as Computer Science. I am a creative and software engineering enthusiast. I have an interest in mobile programming, and I also like graphic design. I am also active in the community, one of which is the GDSC Chapter of UIN Maulana Malik Ibrahim Malang.</p>
+  <p>I am currently a student at UIN Maulana Malik Ibrahim Malang majoring in Informatics Engineering, which is popularly known as Computer Science. I am a creative and software engineering enthusiast. I have an interest in mobile programming, and I also like graphic design. I am also active in the community, one of which is the Google Developer Groups oc Campus UIN Maulana Malik Ibrahim Malang as a Core of Creative Media.</p>
 </div>
 
 <div align = 'center'>
