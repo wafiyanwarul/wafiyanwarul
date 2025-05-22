@@ -64,7 +64,8 @@
     <img alt = 'React Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height = 40 />
     <img alt = 'Laravel Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height = 40 />
     <img alt = 'VS Code Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height = 40 />
-    <img alt = 'Docker Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height = 40 />              
+    <img alt = 'Docker Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height = 40 />
+    <img alt = 'Cloudflare Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height= 40 />
   </p>
 </div>
 
