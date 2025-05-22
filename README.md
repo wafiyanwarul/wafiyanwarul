@@ -1,6 +1,6 @@
 <div align = 'center'>
   <img src = 'https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif' alt = 'Loading GIF'>
-  <img src = 'https://private-user-images.githubusercontent.com/95902360/446309320-afd24371-e2f8-46c3-9d2b-25aa13fb0446.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc4NzcwNDUsIm5iZiI6MTc0Nzg3Njc0NSwicGF0aCI6Ii85NTkwMjM2MC80NDYzMDkzMjAtYWZkMjQzNzEtZTJmOC00NmMzLTlkMmItMjVhYTEzZmIwNDQ2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIyVDAxMTkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlZDQwMzNkNmMzZjZiNzFhZjg4OTUwNWNjZDk3ZDBkYTI0ODA3ZjY0NWMxZTFlZDQ2MWZkNmE2ZjVlZGM3YTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tetVhVnZrmXO2sgjWCdV5TgJ3-mIqePk_uv494vpZlk' >
+  <img src = 'https://github.com/wafiyanwarul/wafiyanwarul/blob/main/assets/images/github-banner-profile-techstack.png?raw=true' >
   <img src = 'https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif' alt = 'Loading GIF'>
   <p>
     <img src = 'https://img.shields.io/badge/HI-EFFF36?style=for-the-badge' alt = 'Hi Badge'> <img src = 'https://img.shields.io/badge/FOLKS!-FF6550?style=for-the-badge' alt = 'Folks Badge'>
@@ -92,11 +92,11 @@
 
 <div align="center">
   <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=wafiyanwarul&theme=buefy&hide_border=true' alt="wafiyanwarul's Streak" height = 180>
-  <img src = 'https://private-user-images.githubusercontent.com/95902360/446309996-35c604cf-914a-4621-a99f-d59ef7f2b425.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc4NzcwNDUsIm5iZiI6MTc0Nzg3Njc0NSwicGF0aCI6Ii85NTkwMjM2MC80NDYzMDk5OTYtMzVjNjA0Y2YtOTE0YS00NjIxLWE5OWYtZDU5ZWY3ZjJiNDI1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIyVDAxMTkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1NmRlNWE5MDIxZmVmMTc4N2Y0NmI3ODM0ZjM5OTNhYjk0NjMyZmMzZWNjODE3Njc3MTZiMzViNGNiYTEwZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DJcp-GSjIuuMXjyvUxS_LZzPRa6dcWuTVn-p28b2JzI' height = 180 >
+  <img src = 'https://raw.githubusercontent.com/wafiyanwarul/wafiyanwarul/refs/heads/main/assets/gifs/cat-fast-typing.gif' height = 180 >
 </div>
 
 ---
 
 <div align = 'center'>
-  <img src = 'https://private-user-images.githubusercontent.com/95902360/446311194-8a9adf21-c835-4315-8bcb-5a599702f910.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc4NzcwNDUsIm5iZiI6MTc0Nzg3Njc0NSwicGF0aCI6Ii85NTkwMjM2MC80NDYzMTExOTQtOGE5YWRmMjEtYzgzNS00MzE1LThiY2ItNWE1OTk3MDJmOTEwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIyVDAxMTkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4NDIyOWNmYzQ2OGE1NTY4NjU0YmRiNGRlYmRlNjRkNDBmMzI5NWU5NTMwNGQ4Yjg5NDczZTA1NDJiZGRiZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4Ew3-PjHSeRW-UEb8LSoZ0IPpil4fnzgYiUwED4PwDA' height = 180 >
+  <img src = 'https://github.com/wafiyanwarul/wafiyanwarul/blob/main/assets/gifs/mario-coding-at-night.gif?raw=true' height = 180 >
 </div>
