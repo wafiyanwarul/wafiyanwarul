@@ -5,7 +5,7 @@
   <p>
     <img src = 'https://img.shields.io/badge/HI-EFFF36?style=for-the-badge' alt = 'Hi Badge'> <img src = 'https://img.shields.io/badge/FOLKS!-FF6550?style=for-the-badge' alt = 'Folks Badge'>
     <h1>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=1000&color=18A8F7&center=true&width=435&lines=Wafiy+Anwarul+Hikam" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=1000&color=18A8F7&center=true&width=435&lines=Wafiy+Anwarul+S.Kom" alt="Typing SVG" /></a>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=200&color=C4F711&center=true&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
     </h1> 
   </p>
@@ -13,7 +13,29 @@
 
 
 <div align = 'justify'>
-  <p>I am currently a student at UIN Maulana Malik Ibrahim Malang majoring in Informatics Engineering, which is popularly known as Computer Science. I am a creative and software engineering enthusiast. I have an interest in mobile programming, and I also like graphic design. I am also active in the community, one of which is the Google Developer Groups oc Campus UIN Maulana Malik Ibrahim Malang as a Core of Creative Media.</p>
+  <p>
+    🚀 Backend-focused Software Engineer passionate about building scalable systems, RESTful APIs, and production-ready applications.
+    
+I specialize in backend development using modern technologies like <b>Node.js, Express.js, Laravel, PostgreSQL, and React.js</b>, with hands-on experience in building full-stack applications, integrating payment gateways, and deploying systems with CI/CD pipelines.
+  - 🎓 Computer Science — Maulana Malik Ibrahim Malang State Islamic University (CGPA: 3.86)
+  - 💼 Former Backend Developer Intern at PT. Ekata Technology Indonesia
+  - 🏆 Top 10 National Hackathon Winner (HackFest 2024 – GDSC Indonesia)
+  - 🏢 Founder & Backend Developer at Illusphere Creative
+  </p>
+  
+---
+
+<div align = 'center'>
+  <h3>🌐 Work with me</h3>
+  <p>
+    I run an IT agency providing backend development, full-stack apps, and custom software solutions.
+  </p>
+
+👉 https://illusphere-creative.biz.id/
+</div>
+
+---
+  </p>
 </div>
 
 <div align = 'center'>
@@ -28,8 +50,6 @@
 <div align = 'center'>
   <h3>Currently Developing : </h3> 
     <p>
-      <a href = 'https://github.com/wafiyanwarul/informatika-feedback' > <img src = 'https://img.shields.io/github/stars/wafiyanwarul/informatika-feedback?style=flat-square&logo=github&label=Informatika-feedback&color=red' alt = 'Repository Informatika-Feedback' ></a>
-      <a href = 'https://github.com/wafiyanwarul/angkotkita'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/angkotkita?style=flat-square&logo=github&label=Angkot%20Kita&labelColor=dark%20blue&color=red' alt = 'Repository angkutkita'></a>
       <a href = 'https://github.com/wafiyanwarul/yummyExpress'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/yummyExpress?style=flat-square&logo=github&label=Yummy%20Express&color=red' alt = 'Repository yummyExpress'></a>
       <a href = 'https://github.com/wafiyanwarul/DineOrderSystem'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/DineOrderSystem?style=flat-square&logo=github&label=DineOrderSystem&color=red' alt = 'Repository DineOrderSystem'></a>
     </p>  
@@ -40,55 +60,65 @@
 <div align = 'center'>
   <h3>Languages :</h3>
   <p>
-    <img alt = 'Dart Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height = 40 />  
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,go,java" />
+    </a> 
+    <!-- <img alt = 'Dart Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height = 40 />  
     <img alt = 'Java Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height = 40 />  
     <img alt = 'Kotlin Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height = 40 />  
     <img alt = 'Go Devicon'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height = 40 />  
     <img alt = 'Python Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = 40 />
     <img alt = 'Typescript Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height = 40 />
     <img alt = 'Javascript Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height = 40 />
-    <img alt = 'PHP Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height = 40 />
+    <img alt = 'PHP Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height = 40 /> -->
   </p>
 </div>
 
 <div align = 'center'>
   <h3>Tools :</h3>  
   <p>
-    <img alt = 'Firebase Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height = 40/>  
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=firebase,gcp,docker,kubernetes,cloudflare,rabbitmq,graphql,jquery,kafka,aws,git,githubactions" />
+    </a> 
+    <!-- <img alt = 'Firebase Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height = 40/>  
     <img alt = 'Google Cloud Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height = 40 />
     <img alt = 'Docker Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height = 40 />
     <img alt = 'Cloudflare Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height= 40 />            
     <img alt = 'RabbitMQ Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height= 40 />
     <img alt = 'AWS Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height = 40 />
-    <img alt = 'Git Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = 40 />
+    <img alt = 'Git Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = 40 /> -->
   </p>
   <p>
-    <img alt = 'MySQL Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height = 40 />  
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,redis,prisma" />
+    </a> 
+    <!-- <img alt = 'MySQL Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height = 40 />  
     <img alt = 'PostgreSQL Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height = 40 />
     <img alt = 'Prisma Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height= 40 />
-    <img alt = 'Redis Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height= 40 />
+    <img alt = 'Redis Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height= 40 /> -->
   </p>  
   <p>
-    <img alt = 'Bootstrap Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height = 40 />
-    <img alt = 'Flutter Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height = 40 />
-    <img alt = 'React Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height = 40 />
-    <img alt = 'NextJS Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height = 40 />
-    <img alt = 'Express Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height = 40 />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,laravel,fastapi,svelte,tailwind,vite" />
+    </a> 
     <img alt = 'Fiber Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-original.svg" height = 40 />
-    <img alt = 'NodeJS Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height = 40 />
-    <img alt = 'Laravel Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height = 40 />
     <img alt = 'Livewire Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" height = 40 />
-    <img alt = 'ViteJS Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height= 40 />
-    <img alt = 'Tailwind Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height = 40 />
-    <img alt = 'Svelte Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height= 40 />
+    <img alt = 'Bootstrap Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height = 40 />
+    <!-- <img alt = 'ViteJS Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height= 40 /> -->
+    <!-- <img alt = 'Tailwind Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height = 40 /> -->
+    <!-- <img alt = 'Svelte Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height= 40 /> -->
           
   </p>
   <p>
-    <img alt = 'Webstorm Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height = 40 />
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=stackoverflow,vercel,webstorm,postman,vscode" />
+    </a> 
     <img alt = 'Datagrip Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height = 40 />
     <img alt = 'Slack Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height= 40 />
-    <img alt = 'Postman Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height = 40 />
-    <img alt = 'VS Code Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height = 40 />     
+    <!-- <img alt = 'Webstorm Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height = 40 /> -->
+    <!-- <img alt = 'Postman Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height = 40 />
+    <img alt = 'VS Code Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height = 40 />      -->
   </p>
 </div>
 
@@ -108,25 +138,17 @@
 
 </br>
 
-<div align = 'center'>
-  <h3>
-    GitHub Analytics  
-  </h3>
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
   <p>
-
-<!-- <p align="center"> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wafiyanwarul&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wafiyanwarul&theme=github_dark" />
-<!-- </p> -->
-
-<!-- <p align="center"> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wafiyanwarul&theme=github_dark" />
-<!-- </p> -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wafiyanwarul&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wafiyanwarul&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wafiyanwarul&theme=radical" />
   </p>
 </div>
 
 <div align="center">
-  <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=wafiyanwarul&theme=buefy&hide_border=true' alt="wafiyanwarul's Streak" height = 180>
+  <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=wafiyanwarul&theme=radical&hide_border=true' alt="wafiyanwarul's Streak" height = 180>
   <img src = 'https://raw.githubusercontent.com/wafiyanwarul/wafiyanwarul/refs/heads/main/assets/gifs/cat-fast-typing.gif' height = 180 >
 </div>
 
