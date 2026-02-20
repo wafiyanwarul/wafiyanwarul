@@ -44,7 +44,8 @@
     <img alt = 'Java Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height = 40 />  
     <img alt = 'Kotlin Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height = 40 />  
     <img alt = 'Go Devicon'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height = 40 />  
-    <img alt = 'Python Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = 40 />  
+    <img alt = 'Python Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = 40 />
+    <img alt = 'Typescript Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height = 40 />
     <img alt = 'Javascript Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height = 40 />
     <img alt = 'PHP Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height = 40 />
   </p>
@@ -55,17 +56,39 @@
   <p>
     <img alt = 'Firebase Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height = 40/>  
     <img alt = 'Google Cloud Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height = 40 />
+    <img alt = 'Docker Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height = 40 />
+    <img alt = 'Cloudflare Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height= 40 />            
+    <img alt = 'RabbitMQ Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height= 40 />
+    <img alt = 'AWS Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height = 40 />
     <img alt = 'Git Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = 40 />
+  </p>
+  <p>
     <img alt = 'MySQL Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height = 40 />  
     <img alt = 'PostgreSQL Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height = 40 />
+    <img alt = 'Prisma Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height= 40 />
+    <img alt = 'Redis Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height= 40 />
+  </p>  
+  <p>
     <img alt = 'Bootstrap Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height = 40 />
     <img alt = 'Flutter Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height = 40 />
-    <img alt = 'Tailwind Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height = 40 />
     <img alt = 'React Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height = 40 />
+    <img alt = 'NextJS Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height = 40 />
+    <img alt = 'Express Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height = 40 />
+    <img alt = 'Fiber Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-original.svg" height = 40 />
+    <img alt = 'NodeJS Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height = 40 />
     <img alt = 'Laravel Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height = 40 />
-    <img alt = 'VS Code Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height = 40 />
-    <img alt = 'Docker Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height = 40 />
-    <img alt = 'Cloudflare Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height= 40 />
+    <img alt = 'Livewire Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" height = 40 />
+    <img alt = 'ViteJS Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height= 40 />
+    <img alt = 'Tailwind Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height = 40 />
+    <img alt = 'Svelte Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height= 40 />
+          
+  </p>
+  <p>
+    <img alt = 'Webstorm Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height = 40 />
+    <img alt = 'Datagrip Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height = 40 />
+    <img alt = 'Slack Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height= 40 />
+    <img alt = 'Postman Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height = 40 />
+    <img alt = 'VS Code Devicon' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height = 40 />     
   </p>
 </div>
 
@@ -85,11 +108,22 @@
 
 </br>
 
-<!-- <div align = 'center'>
+<div align = 'center'>
+  <h3>
+    GitHub Analytics  
+  </h3>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wafiyanwarul&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="wafiyanwarul's Stats" height="195">       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafiyanwarul&theme=buefy&show_icons=true&hide_border=true&layout=compact" alt="wafiyanwarul's Top Languages" height="195">   
+
+<!-- <p align="center"> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wafiyanwarul&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wafiyanwarul&theme=github_dark" />
+<!-- </p> -->
+
+<!-- <p align="center"> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wafiyanwarul&theme=github_dark" />
+<!-- </p> -->
   </p>
-</div> -->
+</div>
 
 <div align="center">
   <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=wafiyanwarul&theme=buefy&hide_border=true' alt="wafiyanwarul's Streak" height = 180>
