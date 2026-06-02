@@ -31,7 +31,11 @@ I specialize in backend development using modern technologies like <b>Node.js, E
     I run an IT agency providing backend development, full-stack apps, and custom software solutions.
   </p>
 
-👉 https://illusphere-creative.biz.id/
+ <p>
+   <a href='https://www.wafiyanwarul.my.id/'> <img alt="Static Badge" src="https://img.shields.io/badge/my-portfolio-brightgreen?style=flat-square&logo=zenbrowser&color=%2339b30c"></a> 
+   <a href='https://illusphere-creative.biz.id/'> <img alt="Static Badge" src="https://img.shields.io/badge/illusphere-creative-darkgrey?style=flat-square&logo=zenbrowser&logoColor=white&color=%23e6bf35"></a>
+ </p>
+
 </div>
 
 ---
@@ -50,8 +54,8 @@ I specialize in backend development using modern technologies like <b>Node.js, E
 <div align = 'center'>
   <h3>Currently Developing : </h3> 
     <p>
-      <a href = 'https://github.com/wafiyanwarul/yummyExpress'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/yummyExpress?style=flat-square&logo=github&label=Yummy%20Express&color=red' alt = 'Repository yummyExpress'></a>
-      <a href = 'https://github.com/wafiyanwarul/DineOrderSystem'><img src = 'https://img.shields.io/github/stars/wafiyanwarul/DineOrderSystem?style=flat-square&logo=github&label=DineOrderSystem&color=red' alt = 'Repository DineOrderSystem'></a>
+      <a href = 'https://github.com/wafiyanwarul/yummyExpress'> <img src = 'https://img.shields.io/github/stars/wafiyanwarul/yummyExpress?style=flat-square&logo=github&label=Yummy%20Express&color=red' alt = 'Repository yummyExpress'></a>
+      <a href = 'https://github.com/wafiyanwarul/kekayaan.id'> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wafiyanwarul/kekayaan.id?style=flat-square&logo=github&label=kekayaan-id&color=%23754ce6&link=https%3A%2F%2Fgithub.com%2Fwafiyanwarul%2Fkekayaan.id"></a>
     </p>  
 </div>
 
